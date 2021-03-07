@@ -1,0 +1,14 @@
+{
+  "name": "tensorflow",
+  "version": "1.0.0",
+  "description": "installing tensorflow.js with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris.M",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^3.2.0"
+  }
+}
